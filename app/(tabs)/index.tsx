@@ -34,7 +34,7 @@ export default function HomeScreen() {
 
 
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Bienvenue sur notre site</ThemedText>
+        <ThemedText type="subtitle">Bienvenue sur notre site!!!</ThemedText>
         <ThemedText>
           Cette application est destinée à la gestion de tickets
           d’incidents/support pour l’école La Plateforme
